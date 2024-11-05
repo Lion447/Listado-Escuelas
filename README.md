@@ -2,6 +2,5 @@
 ## Descripción
 El proyecto consiste en una lista de cartas con informacion de escuelas, universidades y cursos.
 ## Tecnologías usadas
-Tarea Clase 1:
 - **HTML y CSS**
   
